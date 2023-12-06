@@ -1,0 +1,9 @@
+{
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "testFiles": "**/*.spec.js",
+    "video": false,
+    "viewportWidth": 1280,
+    "viewportHeight": 720
+   
+  }
